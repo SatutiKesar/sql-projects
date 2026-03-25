@@ -83,6 +83,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 This project is open-source and available under the MIT License.
 
+...........................................................................................
 
 
 If you find this repo useful, consider giving it a star!
